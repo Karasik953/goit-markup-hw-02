@@ -68,11 +68,11 @@ a {
 
 
 
-.h1-section {
+.hone-section {
     background-color: #2e2f42;
 }
 
-.h1-styles {
+.hone-styles {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -81,7 +81,7 @@ a {
     color: #fff;
 }
 
-.section1-b {
+.sectionone-b {
     background: #4d5ae5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -91,8 +91,8 @@ a {
     cursor: pointer
 }
 
-.section1-b:hover,
-.section1-b:focus {
+.sectionone-b:hover,
+.sectionone-b:focus {
     background: #404bbf;
 }
 
