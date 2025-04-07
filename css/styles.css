@@ -120,7 +120,7 @@ a {
 }
 
 .three-section {
-    background-color: #f4f4f4;
+    background-color: #f4f4fd;
 }
 
 .page-h {
@@ -130,4 +130,16 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
+}
+
+.page-li-three {
+    background-color: #FFFFFF
+}
+
+.p-three-section {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
 }
